@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "deploymentPrefix": {
-            "type": "Main-WE"
+            "type": "string"
         },
         "rebuildVNET": {
             "type": "string","defaultValue": "No"
