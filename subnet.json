@@ -6,7 +6,7 @@
             "type": "string"
         },
         "rebuildVNET": {
-            "type": "string","defaultValue": "No"
+            "type": "string","defaultValue": "Yes"
         },
         "subnets": {
             "type": "array",
