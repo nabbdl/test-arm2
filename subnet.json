@@ -26,6 +26,11 @@
                     "name": "routed",
                     "addressPrefix": "10.2.2.0/24",
                     "routeTable": "UDR-Default1"
+                },
+                {
+                    "name": "test",
+                    "addressPrefix": "10.2.3.0/24",
+                    "routeTable": "UDR-Default1"
                 }
             ]
         }
